@@ -6,3 +6,4 @@ pandas
 scikit-learn
 google-generativeai
 gradio
+kaggle
